@@ -1,0 +1,2 @@
+rootProject.name = "WebApiCall"
+include ':app'
